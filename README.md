@@ -77,8 +77,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Happy Quizzing! 🧠
 ```
-
-### Final Steps:
-- **Ensure all media files (images, video) are placed correctly in the `demo` folder**.
-- If embedding the video directly isn't working, consider hosting it on YouTube or another platform and linking to it. This ensures easy playback directly in the README.
-- Verify the paths and file names to avoid broken links or missing media.
