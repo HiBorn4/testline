@@ -1,3 +1,5 @@
+Here's the updated README with a grid layout for the images and a direct link to the demo video.
+
 ### GitHub README for Quiz Application
 
 ```markdown
@@ -15,28 +17,20 @@ A dynamic and interactive Flutter-based quiz application featuring gamification 
 
 ## Screenshots 📸
 
-### Home Screen
-![Home Screen](demo/home.jpg)
+Here's a glimpse of the application in action:
 
-### Question 1
-![Question 1](demo/q1.jpg)
-
-### Question 2
-![Question 2](demo/q2.jpg)
-
-### Right Answer Result
-![Right Answer Result](demo/rw.jpg)
-
-### Negative Result
-![Negative Result](demo/negresult.jpg)
-
-### Final Results
-![Final Results](demo/result.jpg)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="demo/home.jpg" alt="Home Screen" width="30%" style="margin: 1%;">
+  <img src="demo/q1.jpg" alt="Question 1" width="30%" style="margin: 1%;">
+  <img src="demo/q2.jpg" alt="Question 2" width="30%" style="margin: 1%;">
+  <img src="demo/rw.jpg" alt="Right Answer Result" width="30%" style="margin: 1%;">
+  <img src="demo/negresult.jpg" alt="Negative Result" width="30%" style="margin: 1%;">
+  <img src="demo/result.jpg" alt="Final Results" width="30%" style="margin: 1%;">
+</div>
 
 ## Demo Video 🎥
 
-Experience the app in action! Click the link below to watch the demo video:
-[Watch Demo](demo/demo.mp4)
+Experience the app in action! [Watch the Demo Video](demo/demo.mp4)
 
 ## Installation 🚀
 
@@ -91,9 +85,8 @@ Happy Quizzing! 🧠
 ```
 
 ### Additional Notes:
-- Replace `screenshots/home.png`, `screenshots/q1.png`, etc., with the actual paths to your screenshot files.
-- Update `[Watch Demo](path-to-video)` with the actual path or link to your demo video.
-- Update `https://github.com/yourusername/quiz-app.git` with the actual GitHub repository URL.
-- If you have any special acknowledgments, add them in the "Acknowledgements" section.
+- Make sure the `demo/home.jpg`, `demo/q1.jpg`, etc., paths point to the correct locations of your images in the repository.
+- Replace `[Watch the Demo Video](demo/demo.mp4)` with the correct path or URL to your video.
+- Update `https://github.com/yourusername/quiz-app.git` with your GitHub repository URL. 
 
-This README provides a detailed overview of your project, highlights its features, and guides users through installation and usage, making it informative and engaging.
+This README now includes a visually appealing grid for the screenshots and a direct link to the demo video, enhancing the overall presentation and user engagement.
