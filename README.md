@@ -1,8 +1,3 @@
-Here's the updated README with a grid layout for the images and a direct link to the demo video.
-
-### GitHub README for Quiz Application
-
-```markdown
 # Quiz Application 🎮
 
 A dynamic and interactive Flutter-based quiz application featuring gamification elements. This app fetches quiz data from an API and offers an intuitive user experience with real-time score updates, progress tracking, and comprehensive results. Perfect for learning, fun, and challenge!
@@ -19,28 +14,27 @@ A dynamic and interactive Flutter-based quiz application featuring gamification 
 
 Here's a glimpse of the application in action:
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="demo/home.jpg" alt="Home Screen" width="30%" style="margin: 1%;">
-  <img src="demo/q1.jpg" alt="Question 1" width="30%" style="margin: 1%;">
-  <img src="demo/q2.jpg" alt="Question 2" width="30%" style="margin: 1%;">
-  <img src="demo/rw.jpg" alt="Right Answer Result" width="30%" style="margin: 1%;">
-  <img src="demo/negresult.jpg" alt="Negative Result" width="30%" style="margin: 1%;">
-  <img src="demo/result.jpg" alt="Final Results" width="30%" style="margin: 1%;">
-</div>
+| Home Screen                  | Question 1                   | Question 2                   |
+|------------------------------|------------------------------|------------------------------|
+| ![Home Screen](demo/home.jpg) | ![Question 1](demo/q1.jpg)    | ![Question 2](demo/q2.jpg)    |
+
+| Right Answer Result          | Negative Result              | Final Results                |
+|------------------------------|------------------------------|------------------------------|
+| ![Right Answer](demo/rw.jpg)  | ![Negative Result](demo/negresult.jpg) | ![Final Results](demo/result.jpg) |
 
 ## Demo Video 🎥
 
-Experience the app in action! [Watch the Demo Video](demo/demo.mp4)
+Experience the app in action by [watching the demo video](demo/demo.mp4). *(Downloadable link)*
 
 ## Installation 🚀
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-app.git
+   git clone https://github.com/yourusername/testline.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd quiz-app
+   cd testline
    ```
 3. Install dependencies:
    ```bash
@@ -84,9 +78,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 Happy Quizzing! 🧠
 ```
 
-### Additional Notes:
-- Make sure the `demo/home.jpg`, `demo/q1.jpg`, etc., paths point to the correct locations of your images in the repository.
-- Replace `[Watch the Demo Video](demo/demo.mp4)` with the correct path or URL to your video.
-- Update `https://github.com/yourusername/quiz-app.git` with your GitHub repository URL. 
-
-This README now includes a visually appealing grid for the screenshots and a direct link to the demo video, enhancing the overall presentation and user engagement.
+### Final Steps:
+- **Ensure all media files (images, video) are placed correctly in the `demo` folder**.
+- If embedding the video directly isn't working, consider hosting it on YouTube or another platform and linking to it. This ensures easy playback directly in the README.
+- Verify the paths and file names to avoid broken links or missing media.
