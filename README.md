@@ -30,7 +30,7 @@ Experience the app in action by [watching the demo video](demo/demo.mp4). *(Down
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/testline.git
+   git clone https://github.com/hiborn/testline.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -76,4 +76,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Happy Quizzing! 🧠
-```
